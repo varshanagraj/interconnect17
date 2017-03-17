@@ -14,13 +14,13 @@ In this lab we will build a travel advisor application that recognizes the conte
 
 Click on Node-RED to create the application.
 
-<img src="images/node-red-catalog.png" height="500" width ="900" align="center">
+<img src="images/node-red-catalog.png" height="250" width ="650" align="center">
 
 
 
 <h4>Step 3 : Click on Node-Red and give a unique name for the application</h4>
 
-<img src="images/create-app.png" height="500" width ="900" align="center">
+<img src="images/create-app.png" height="250" width ="650" align="center">
 
 
 Staging will take few minutes 
@@ -35,14 +35,14 @@ Yayyyy its running and ready to use!!
 
 You can verify now that a Node-RED application is created with a Cloudant database
 
-<img src="images/nodered-appstatus.png" height="250" width ="500" align="center">
+<img src="images/nodered-appstatus.png" height="250" width ="650" align="center">
 
 
 
 
 <h4>Step 4 : Switch to Catalog tab and search for 'Visual Recognition' service</h4>
 
-<img src="images/visularecognition-catalog.png" height="270" width ="500" align="center">
+<img src="images/visularecognition-catalog.png" height="270" width ="650" align="center">
 
 
 
@@ -52,7 +52,7 @@ You can verify now that a Node-RED application is created with a Cloudant databa
 
 Select the Node-RED application from the dropdown -
 
-<img src="images/create-visualrecognition-service.png" height="500" width ="950" align="center">
+<img src="images/create-visualrecognition-service.png" height="250" width ="650" align="center">
 	
 	
 	
@@ -64,7 +64,7 @@ To bind the Visual Recognition service to the Node-RED application, click 'Resta
 
 Your Visual recognition service is now bound to the Node-RED application
 
-<img src="images/app-overview.png" height="350" width ="700" align="center">
+<img src="images/app-overview.png" height="250" width ="650" align="center">
 
 
 
