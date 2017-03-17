@@ -25,12 +25,12 @@ Click on Node-RED to create the application.
 
 Staging will take few minutes 
 
-<img src="images/app-staging.png" height="250" width ="450" align="center">
+<img src="images/app-staging.png" height="250" width ="650" align="center">
 
 
 Yayyyy its running and ready to use!!
 
-<img src="images/app-running.png" height="100" width ="350" align="center">
+<img src="images/app-running.png" height="250" width ="650" align="center">
 
 
 You can verify now that a Node-RED application is created with a Cloudant database
