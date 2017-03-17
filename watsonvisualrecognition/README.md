@@ -4,7 +4,7 @@ In this lab we will build a travel advisor application that recognizes the conte
 
 
 <h4>Overview :</h4>
-<img src="images/Overview.png" height="200" width ="650" align="center">
+<img src="images/Overview.png" height="300" width ="800" align="center">
 
 <h4>Step 1 : Sign up / Login to Bluemix - https://console.ng.bluemix.net/</h4>
 
