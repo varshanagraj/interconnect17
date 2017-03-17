@@ -14,7 +14,7 @@ In this lab we will build a travel advisor application that recognizes the conte
 
 Click on Node-RED to create the application.
 
-<img src="images/node-red-catalog.png" height="270" width ="500" align="center">
+<img src="images/node-red-catalog.png" height="500" width ="900" align="center">
 
 
 
