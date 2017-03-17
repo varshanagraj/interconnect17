@@ -35,7 +35,7 @@ Yayyyy its running and ready to use!!
 
 You can verify now that a Node-RED application is created with a Cloudant database
 
-<img src="images/nodered-appstatus.png" height="500" width ="250" align="center">
+<img src="images/nodered-appstatus.png" height="250" width ="500" align="center">
 
 
 
