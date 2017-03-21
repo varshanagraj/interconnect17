@@ -1,1 +1,41 @@
-[{"id":"73780ca8.2d68e4","type":"change","z":"38271b21.ae5ae4","name":"Adjust Output for Widget","rules":[{"t":"delete","p":"payload","pt":"msg"},{"t":"set","p":"payload.problem","pt":"msg","to":"problem","tot":"msg"},{"t":"set","p":"payload.resolution","pt":"msg","to":"resolution","tot":"msg"}],"action":"","property":"","from":"","to":"","reg":false,"x":1062,"y":371,"wires":[["26a17263.afcf1e"]]}]
+[
+    {
+        "id": "73780ca8.2d68e4",
+        "type": "change",
+        "z": "38271b21.ae5ae4",
+        "name": "Adjust Output for Widget",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "payload",
+                "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.problem",
+                "pt": "msg",
+                "to": "problem",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload.resolution",
+                "pt": "msg",
+                "to": "resolution",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1062,
+        "y": 371,
+        "wires": [
+            [
+                "26a17263.afcf1e"
+            ]
+        ]
+    }
+]
