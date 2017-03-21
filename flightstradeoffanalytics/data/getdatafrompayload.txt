@@ -1,0 +1,58 @@
+ [
+    {
+        "id": "ceb60969.5d7e68",
+        "type": "change",
+        "z": "38271b21.ae5ae4",
+        "name": "Get Data from Payload",
+        "rules": [
+            {
+                "t": "set",
+                "p": "subject",
+                "pt": "msg",
+                "to": "payload.subject",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "columns",
+                "pt": "msg",
+                "to": "payload.columns",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "options",
+                "pt": "msg",
+                "to": "payload.options",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "problem",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.subject",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 429,
+        "y": 363,
+        "wires": [
+            [
+                "2c3e8c09.d0a144",
+                "1a30df4c.a20421"
+            ]
+        ]
+    }
+]
